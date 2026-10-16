@@ -1,0 +1,5 @@
+package com.agriculture.sensor.entity;
+
+public class Sensor {
+
+}

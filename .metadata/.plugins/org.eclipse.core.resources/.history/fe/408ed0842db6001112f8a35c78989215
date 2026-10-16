@@ -1,0 +1,5 @@
+package com.agriculture.analytics.service;
+
+public class AnalyticsService {
+
+}

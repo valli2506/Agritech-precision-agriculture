@@ -1,0 +1,5 @@
+package com.agriculture.irrigation.entity;
+
+public class IrrigationRecommendation {
+
+}

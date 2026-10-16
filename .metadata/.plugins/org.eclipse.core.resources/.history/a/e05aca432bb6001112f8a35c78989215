@@ -1,0 +1,5 @@
+package com.agriculture.irrigation.repository;
+
+public class IrrigationRepository {
+
+}

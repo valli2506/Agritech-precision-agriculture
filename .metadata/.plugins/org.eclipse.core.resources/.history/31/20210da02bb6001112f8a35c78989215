@@ -1,0 +1,5 @@
+package com.agriculture.irrigation.service;
+
+public class IrrigationService {
+
+}

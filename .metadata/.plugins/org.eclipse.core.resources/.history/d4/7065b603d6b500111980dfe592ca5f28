@@ -1,0 +1,5 @@
+package com.agriculture.sensor.controller;
+
+public class SensorController {
+
+}

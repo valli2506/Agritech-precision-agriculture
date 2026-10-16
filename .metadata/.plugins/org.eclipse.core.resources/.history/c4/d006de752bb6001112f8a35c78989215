@@ -1,0 +1,5 @@
+package com.agriculture.irrigation.client;
+
+public class CropClient {
+
+}

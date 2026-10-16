@@ -1,0 +1,5 @@
+package com.agriculture.sensor.service;
+
+public class SensorService {
+
+}

@@ -1,0 +1,5 @@
+package com.agriculture.gateway.security;
+
+public class JwtAuthenticationFilter {
+
+}

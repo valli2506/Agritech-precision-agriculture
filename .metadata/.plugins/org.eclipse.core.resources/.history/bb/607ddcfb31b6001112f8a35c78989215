@@ -1,0 +1,5 @@
+package com.agriculture.authentication.dto;
+
+public class RegisterRequest {
+
+}

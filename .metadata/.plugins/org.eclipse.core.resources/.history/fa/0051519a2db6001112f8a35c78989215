@@ -1,0 +1,5 @@
+package com.agriculture.analytics.controller;
+
+public class AnalyticsController {
+
+}

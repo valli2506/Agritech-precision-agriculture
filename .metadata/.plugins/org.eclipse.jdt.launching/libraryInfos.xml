@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Program Files\Java\jre1.8.0_202_backup" version="1.8.0_202">
+        <bootpath>
+            <entry path="C:\Program Files\Java\jre1.8.0_202_backup\lib\resources.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_202_backup\lib\rt.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_202_backup\lib\sunrsasign.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_202_backup\lib\jsse.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_202_backup\lib\jce.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_202_backup\lib\charsets.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_202_backup\lib\jfr.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_202_backup\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\Program Files\Java\jre1.8.0_202_backup\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\Program Files\Java\jre1.8.0_202_backup\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Users\Dell\Desktop\SOA\sts-5.0.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.1.v20251108-1451\jre" version="25.0.1"/>
+    <libraryInfo home="C:\Program Files\Java\jdk1.8.0_202_backup" version="1.8.0_202">
+        <bootpath>
+            <entry path="C:\Program Files\Java\jdk1.8.0_202_backup\jre\lib\resources.jar"/>
+            <entry path="C:\Program Files\Java\jdk1.8.0_202_backup\jre\lib\rt.jar"/>
+            <entry path="C:\Program Files\Java\jdk1.8.0_202_backup\jre\lib\sunrsasign.jar"/>
+            <entry path="C:\Program Files\Java\jdk1.8.0_202_backup\jre\lib\jsse.jar"/>
+            <entry path="C:\Program Files\Java\jdk1.8.0_202_backup\jre\lib\jce.jar"/>
+            <entry path="C:\Program Files\Java\jdk1.8.0_202_backup\jre\lib\charsets.jar"/>
+            <entry path="C:\Program Files\Java\jdk1.8.0_202_backup\jre\lib\jfr.jar"/>
+            <entry path="C:\Program Files\Java\jdk1.8.0_202_backup\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\Program Files\Java\jdk1.8.0_202_backup\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\Program Files\Java\jdk1.8.0_202_backup\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Program Files\Java\jdk-25" version="25.0.1"/>
+    <libraryInfo home="C:\Program Files (x86)\Java\jre1.8.0_301" version="1.8.0_301">
+        <bootpath>
+            <entry path="C:\Program Files (x86)\Java\jre1.8.0_301\lib\resources.jar"/>
+            <entry path="C:\Program Files (x86)\Java\jre1.8.0_301\lib\rt.jar"/>
+            <entry path="C:\Program Files (x86)\Java\jre1.8.0_301\lib\sunrsasign.jar"/>
+            <entry path="C:\Program Files (x86)\Java\jre1.8.0_301\lib\jsse.jar"/>
+            <entry path="C:\Program Files (x86)\Java\jre1.8.0_301\lib\jce.jar"/>
+            <entry path="C:\Program Files (x86)\Java\jre1.8.0_301\lib\charsets.jar"/>
+            <entry path="C:\Program Files (x86)\Java\jre1.8.0_301\lib\jfr.jar"/>
+            <entry path="C:\Program Files (x86)\Java\jre1.8.0_301\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\Program Files (x86)\Java\jre1.8.0_301\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\Program Files (x86)\Java\jre1.8.0_301\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Program Files\Java\jdk-21" version="21"/>
+    <libraryInfo home="C:\Users\Dell\Desktop\SOA\sts-5.0.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.1.v20251108-1451" version="25.0.1">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>

@@ -1,0 +1,5 @@
+package com.agriculture.farm.repository;
+
+public class FarmRepository {
+
+}

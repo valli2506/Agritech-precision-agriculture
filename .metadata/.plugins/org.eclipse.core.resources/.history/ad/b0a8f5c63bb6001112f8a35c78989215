@@ -1,0 +1,5 @@
+package com.agriculture.gateway.controller;
+
+public class AdminController {
+
+}
